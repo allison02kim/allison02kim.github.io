@@ -8,4 +8,6 @@
 ### The final report is found [here](https://github.com/allison02kim/Election-Report/blob/afaeb0559f38ea8a17a322f9094f09e91c0c2811/report.pdf) and the code [here](https://github.com/allison02kim/Election-Report.git)
 
 #### In this project I collaborated with a small team and utilized PySpark to handle big data (voter files data from 2020) and extract insights. My team and I Conducted EDA, employed Logistic Regression, Support Vector Machines, Gradient Boosting, and Random Forest to analyze the impact of socio-demographic factors on voter participation and election party predictions. We investigated ROC AUC analysis, revealing insights into model performance and limitations, Highlighting the complexity of voter behavior and the interplay between socio-demographic factors. 
-<a href="allison02kim.github.io/happinessreport.pdf" target="_blank">PDF.</a>
+<a href="/folder/happinessreport.pdf" target="_blank">PDF.</a>
+<embed src="https://allison02kim.github.io/folder/happinessreport.pdf" width="100%" height="850px"/>
+
