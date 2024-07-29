@@ -8,11 +8,11 @@
 #### In this project I collaborated with a small team and utilized PySpark to handle big data (voter files data from 2020) and extract insights. My team and I Conducted EDA, employed Logistic Regression, Support Vector Machines, Gradient Boosting, and Random Forest to analyze the impact of socio-demographic factors on voter participation and election party predictions. We investigated ROC AUC analysis, revealing insights into model performance and limitations, Highlighting the complexity of voter behavior and the interplay between socio-demographic factors. 
 #### The full report: <embed src="https://allison02kim.github.io/folder/report.pdf" width="100%" height="500px"/> The code can be found [here](https://github.com/allison02kim/Election-Report.git)
 
+## Covid Vaccinations Report
+#### This project aims to uncover trends, correlations, and insights into global infection rates, death rates, and vaccination rate. By examining the data, I seek to provide a comprehensive understanding of the impact of vaccinations on reducing mortality rates and the overall progress in combating Covid-19 worldwide.
+#### The full report: <embed src=https://public.tableau.com/views/CovidDashboard_17222812972120/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link width="100%" height="500px"/>
+#### The SQL code can be found [here](https://github.com/allison02kim/CovidProject.git)
 
 ## World Happiness Report
 #### In collaboration with my partner, I undertook a comprehensive analysis of the World Happiness Report 2023 data, focusing on identifying the key factors influencing happiness across different countries. Utilizing various data analysis techniques and visualization tools, we examined correlations between happiness scores and variables such as GDP per capita, social support, life expectancy, freedom to make life choices, generosity, and perceptions of corruption. Our project aimed to uncover insights into how these factors contribute to overall happiness and well-being, offering valuable perspectives for policymakers and researchers interested in enhancing quality of life worldwide.
 #### The full report: <embed src="https://allison02kim.github.io/folder/happinessreport.pdf" width="100%" height="500px"/> The code can be found [here](https://github.com/allison02kim/WorldHappinessReport.git)
-
-## Covid Vaccinations Report
-#### This (ongoing) project involves a detailed analysis of Covid-19 deaths and vaccination rates by location and on a global scale. The analysis aims to uncover trends, correlations, and insights into how different regions have managed the pandemic through vaccination efforts. By examining the data, I seek to provide a comprehensive understanding of the impact of vaccinations on reducing mortality rates and the overall progress in combating Covid-19 worldwide.
-#### The SQL code can be found [here](https://github.com/allison02kim/CovidProject.git)
