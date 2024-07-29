@@ -10,7 +10,7 @@
 
 ## Covid Vaccinations Report
 #### This project aims to uncover trends, correlations, and insights into global infection rates, death rates, and vaccination rate. By examining the data, I seek to provide a comprehensive understanding of the impact of vaccinations on reducing mortality rates and the overall progress in combating Covid-19 worldwide.
-#### Tableau Dashboard: <embed src="https://allison02kim.github.io/folder/CovidDashboard.pdf" width="100%" height="100px"/>
+#### Tableau Dashboard: <embed src="https://allison02kim.github.io/folder/CovidDashboard.pdf" width="100%" height="300px"/>
 #### [Link to Tableau Dashboard](https://public.tableau.com/views/CovidDashboard_17222812972120/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 #### The SQL code can be found [here](https://github.com/allison02kim/CovidProject.git)
 
