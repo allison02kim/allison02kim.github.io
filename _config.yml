@@ -1,4 +1,10 @@
-Title: Allison Kim
-logo: /image_123650291 (1).JPG
+Title: "Allison's Portfolio"
 show downloads: true
 theme: jekyll-theme-minimal
+author:
+  # Biographic information
+  avatar           : /image_123650291 (1).JPG
+  name             : Allison Kim
+  Github           : https://github.com/allison02kim
+  Linkedin         : https://.\linkedin.com/in/allisonykim
+  Tableau          : https://public.tableau.com/app/profile/allison.kim5958/vizzes
