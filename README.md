@@ -9,7 +9,7 @@
 #### In this project I collaborated with a small team and utilized PySpark to handle big data (voter files data from 2020) and extract insights. My team and I Conducted EDA, employed Logistic Regression, Support Vector Machines, Gradient Boosting, and Random Forest to analyze the impact of socio-demographic factors on voter participation and election party predictions. We investigated ROC AUC analysis, revealing insights into model performance and limitations, Highlighting the complexity of voter behavior and the interplay between socio-demographic factors. 
 #### The full report: <embed src="https://allison02kim.github.io/folder/report.pdf" width="100%" height="500px"/> The code can be found [here](https://github.com/allison02kim/Election-Report.git)
 
-## Covid Vaccinations Report
+## Covid Dashboard
 #### This project aims to uncover trends, correlations, and insights into global infection rates, death rates, and vaccination rate. By examining the data, I seek to provide a comprehensive understanding of the impact of vaccinations on reducing mortality rates and the overall progress in combating Covid-19 worldwide.
 #### Tableau Dashboard: <embed src="https://allison02kim.github.io/folder/CovidDashboard.pdf" width="100%" height="300px"/>
 #### [Link to Tableau Dashboard](https://public.tableau.com/views/CovidDashboard_17222812972120/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
